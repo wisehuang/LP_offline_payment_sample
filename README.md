@@ -2,7 +2,7 @@
 
 ## How to use
 
-1. build project to jar
+1. build source to jar
 2. Leverage [OneTimeKey generator](https://sandbox-web-pay.line.me/web/sandbox/payment/oneTimeKey?countryCode=TW&paymentMethod=card&point=20)
 
 ### payment
