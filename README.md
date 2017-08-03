@@ -1,4 +1,4 @@
-# LP_offline_payment_sample
+# LP offline payment sample
 
 ## How to use
 
